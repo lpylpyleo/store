@@ -11,7 +11,7 @@ class ProductTable extends Component {
 
         const mock = this.props.mock;
 
-        let nameContainer = {}; // 针对键code进行归类的容器
+        let nameContainer = {};
         mock.forEach(item => {
             nameContainer[item.category] = nameContainer[item.category] || [];
             nameContainer[item.category].push(item);

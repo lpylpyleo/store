@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # React Homework
 
-看完react官方教程核心概念篇的作业。（第12小结，React哲学）
+看完react官方教程核心概念篇的作业。（第12小节，React哲学）
 
 ## Available Scripts
 
